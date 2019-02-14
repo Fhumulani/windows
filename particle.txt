@@ -1,0 +1,2 @@
+row = ('Beam', 'dbo', 'particle', 'sParticleNo', 1, None, 'YES', 'smallint', None, None, 5, 10, 0, None, None, None, None, None, None, None, None, None, None) 
+row = ('Beam', 'dbo', 'particle', 'szParticleDesc', 2, None, 'YES', 'varchar', 30, 30, None, None, None, None, None, None, 'iso_1', None, None, 'SQL_Latin1_General_CP1_CI_AS', None, None, None) 

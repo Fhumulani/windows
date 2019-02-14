@@ -1,0 +1,7 @@
+row = ('Beam', 'dbo', 'beam_energiesSPC2', 'TableName', 1, None, 'YES', 'nvarchar', 50, 100, None, None, None, None, None, None, 'UNICODE', None, None, 'SQL_Latin1_General_CP1_CI_AS', None, None, None) 
+row = ('Beam', 'dbo', 'beam_energiesSPC2', 'Date', 2, None, 'YES', 'datetime', None, None, None, None, None, 3, None, None, None, None, None, None, None, None, None) 
+row = ('Beam', 'dbo', 'beam_energiesSPC2', 'Energy', 3, None, 'YES', 'nvarchar', 50, 100, None, None, None, None, None, None, 'UNICODE', None, None, 'SQL_Latin1_General_CP1_CI_AS', None, None, None) 
+row = ('Beam', 'dbo', 'beam_energiesSPC2', 'Particle', 4, None, 'YES', 'nvarchar', 50, 100, None, None, None, None, None, None, 'UNICODE', None, None, 'SQL_Latin1_General_CP1_CI_AS', None, None, None) 
+row = ('Beam', 'dbo', 'beam_energiesSPC2', 'Charge', 5, None, 'YES', 'nvarchar', 50, 100, None, None, None, None, None, None, 'UNICODE', None, None, 'SQL_Latin1_General_CP1_CI_AS', None, None, None) 
+row = ('Beam', 'dbo', 'beam_energiesSPC2', 'BeamUsage', 6, None, 'YES', 'nvarchar', 50, 100, None, None, None, None, None, None, 'UNICODE', None, None, 'SQL_Latin1_General_CP1_CI_AS', None, None, None) 
+row = ('Beam', 'dbo', 'beam_energiesSPC2', 'comments', 7, None, 'YES', 'text', 2147483647, 2147483647, None, None, None, None, None, None, 'iso_1', None, None, 'SQL_Latin1_General_CP1_CI_AS', None, None, None) 

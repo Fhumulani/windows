@@ -1,0 +1,7 @@
+('Beam', 'dbo', 'table2015July06150927', 'szDesc', 1, None, 'YES', 'varchar', 32, 32, None, None, None, None, None, None, 'iso_1', None, None, 'SQL_Latin1_General_CP1_CI_AS', None, None, None)
+('Beam', 'dbo', 'table2015July06150927', 'sznacic', 2, None, 'YES', 'varchar', 32, 32, None, None, None, None, None, None, 'iso_1', None, None, 'SQL_Latin1_General_CP1_CI_AS', None, None, None)
+('Beam', 'dbo', 'table2015July06150927', 'Ref', 3, None, 'YES', 'varchar', 32, 32, None, None, None, None, None, None, 'iso_1', None, None, 'SQL_Latin1_General_CP1_CI_AS', None, None, None)
+('Beam', 'dbo', 'table2015July06150927', 'Act', 4, None, 'YES', 'varchar', 32, 32, None, None, None, None, None, None, 'iso_1', None, None, 'SQL_Latin1_General_CP1_CI_AS', None, None, None)
+('Beam', 'dbo', 'table2015July06150927', 'Units', 5, None, 'YES', 'varchar', 32, 32, None, None, None, None, None, None, 'iso_1', None, None, 'SQL_Latin1_General_CP1_CI_AS', None, None, None)
+('Beam', 'dbo', 'table2015July06150927', 'Status', 6, None, 'YES', 'varchar', 32, 32, None, None, None, None, None, None, 'iso_1', None, None, 'SQL_Latin1_General_CP1_CI_AS', None, None, None)
+('Beam', 'dbo', 'table2015July06150927', 'Page', 7, None, 'YES', 'varchar', 32, 32, None, None, None, None, None, None, 'iso_1', None, None, 'SQL_Latin1_General_CP1_CI_AS', None, None, None)
